@@ -21,7 +21,11 @@
     GUID              = 'da748760-3efb-42a4-9361-43cafa318bab'
 
     # Author of this module
+<<<<<<< HEAD
     Author            = 'Ryan Bartram, Andrew Craig, Fulvio Ferrarini, Stefan Roth'
+=======
+    Author            = 'Ryan Bartram, Andrew Craig, Jan Oehen'
+>>>>>>> 131cbe09e0c1350057a85e8969a69e059f266514
 
     # Company or vendor of this module
     CompanyName       = ''
