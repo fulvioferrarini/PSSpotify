@@ -21,7 +21,7 @@
     GUID              = 'da748760-3efb-42a4-9361-43cafa318bab'
 
     # Author of this module
-    Author            = 'Ryan Bartram, Andrew Craig, Fulvio Ferrarini'
+    Author            = 'Ryan Bartram, Andrew Craig, Fulvio Ferrarini, Stefan Roth'
 
     # Company or vendor of this module
     CompanyName       = ''
